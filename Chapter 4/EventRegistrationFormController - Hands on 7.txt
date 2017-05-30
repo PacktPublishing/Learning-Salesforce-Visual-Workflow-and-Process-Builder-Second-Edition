@@ -1,0 +1,25 @@
+public class EventRegistrationController {
+
+     public String inputCompany { get; set; }
+    public String inputEmailAddress { get; set; }
+    public String inputLastName { get; set; }
+    public String inputFirstName { get; set; }
+    public String inputTitle { get; set; } 
+    public Boolean renderOrNot { get; set; }
+    public String Company { get; set; }
+    public String LastName { get; set; }
+    public String FirstName { get; set; }
+    public String Title { get; set; }
+    public String EmailAddress { get; set; }
+    public String MobileNumber { get; set; }
+    public Flow.Interview.Event_Registartion_Form Event_Registartion_Form{get; set;}
+  
+   public void Submit() {
+   renderOrNot = true;
+   inputTitle = Title;
+   inputFirstName = FirstName;
+   inputLastName = LastName;
+   inputEmailAddress = EmailAddress;
+   inputCompany = Company;
+    }
+}

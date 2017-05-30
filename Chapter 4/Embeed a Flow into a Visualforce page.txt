@@ -1,0 +1,9 @@
+<apex:page standardController="Campaign">
+<flow:interview name="Create_Leads"> // Flow interview 
+component is used to embed flow in a Visualforce page. 
+Create_Leads is flow Unique Name.
+<apex:param name="VarTCampaignID" value="{!Campaign.ID}"/>
+// apex:param is used to pass variable CampaignID value to 
+a flow
+</flow:interview>
+</apex:page>
