@@ -29,8 +29,7 @@ The code will look like the following:
 ### Software requirements:
 | __Chapter number__ | **Free/Proprietary** | **If proprietary, can code testing be performed using a trial version** | **If proprietary, then cost of the software** | **OS required** |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| Windows Internet Explorer versions 8 through 11 (6 and 7 are not supported), Google Chrome, or Mozilla
-Firefox | Free | N>A | N.A | Windows/ Linux/ Mac OS |
+| Windows Internet Explorer versions 8 through 11 (6 and 7 are not supported), Google Chrome, or Mozilla Firefox | Free | N>A | N.A | Windows/ Linux/ Mac OS |
 | Adobe Flash Player Version 10.1 and later. The minimum version required to run the Cloud Flow Designer is  10.0 | Free | N>A | N.A | Mac/ iOS |
  
     
@@ -45,7 +44,7 @@ Happy coding! :)
 ## Related Products:
 * [Learning Salesforce Visual Workflow](https://www.packtpub.com/application-development/learning-salesforce-visual-workflow?utm_source=github&utm_medium=repository&utm_content=9781785289835)
 
-* [Apache Kafka Cookbook(https://www.packtpub.com/big-data-and-business-intelligence/apache-kafka-cookbook?utm_source=github&utm_medium=repository&utm_content=9781785882449)
+* [Apache Kafka Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/apache-kafka-cookbook?utm_source=github&utm_medium=repository&utm_content=9781785882449)
 
 * [Learning Apache Kafka - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/learning-apache-kafka-second-edition?utm_source=github&utm_medium=repository&utm_content=9781784393090)
 
